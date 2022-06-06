@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bank (Yes, that's my nickname)
+- I'm senior developer located in Thailand
+- 🌱 I’m currently learning DevOps related things
+- 📫 You can reach me at Facebook https://www.facebook.com/btanawut/
